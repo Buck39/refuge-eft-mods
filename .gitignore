@@ -20,16 +20,10 @@ BepInEx/*
 BepInEx/config
 !BepInEx/config/BepInEx.cfg
 
-# BepInEx config ignore list
-# BepInEx/config/BepInEx.cfg
-# BepInEx/config/FOVFix.cfg
-# BepInEx/config/Tyfon.UIFixes.cfg
-# BepInEx/config/com.Amanda.Graphics.cfg
-# BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
-
 # mod ignore list
+BepInEx/plugins/Tarky-Menu.dll
 
-#Include User/Mods/
+#Ignore User/Mods
 User
 User/*
 User/Mods
