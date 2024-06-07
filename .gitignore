@@ -18,6 +18,7 @@ BepInEx/*
 
 # BepInEx config
 BepInEx/config
+!BepInEx/config/BepInEx.cfg
 
 # BepInEx config ignore list
 # BepInEx/config/BepInEx.cfg
@@ -29,6 +30,6 @@ BepInEx/config
 # mod ignore list
 
 #Include User/Mods/
-!User
+User
 User/*
-!User/Mods
+User/Mods
