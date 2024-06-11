@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "VisceralDismemberment.dll": [
+        "VolumetricBloodFX.dll"
+      ]
+    }
+  ]
+}

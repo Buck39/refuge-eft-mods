@@ -30,4 +30,4 @@ User/*
 User/Mods
 
 #Optional Mods BepInEx Plugins
-!optional/BepInEx/plugins
+!optional
