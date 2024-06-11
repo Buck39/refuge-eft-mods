@@ -22,6 +22,7 @@ BepInEx/config
 
 # mod ignore list
 BepInEx/plugins/Tarky-Menu.dll
+BepInEx/plugins/BossNotifier.dll
 
 #Ignore User/Mods
 User
