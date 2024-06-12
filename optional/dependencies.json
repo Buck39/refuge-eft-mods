@@ -1,9 +1,6 @@
 {
-  "dependencies": [
-    {
-      "VisceralDismemberment.dll": [
-        "VolumetricBloodFX.dll"
-      ]
-    }
-  ]
+  "VisceralDismemberment.dll": [
+    "VolumetricBloodFX.dll",
+	"bundleloader.dll",
+  ],
 }
