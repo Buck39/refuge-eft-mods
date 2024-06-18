@@ -135,33 +135,6 @@
     }
   },
   {
-    "Name": "boss-mania",
-  	"PMCBotLimitPresets": {
-      "FactoryBotLimit": 5,
-      "InterchangeBotLimit": 7,
-      "LaboratoryBotLimit": 6,
-      "LighthouseBotLimit": 7,
-      "ReserveBotLimit": 7,
-      "ShorelineBotLimit": 7,
-      "WoodsBotLimit": 8,
-      "CustomsBotLimit": 7,
-      "TarkovStreetsBotLimit": 7,
-      "GroundZeroBotLimit": 6
-    },
-    "SCAVBotLimitPresets": {
-      "FactoryBotLimit": 5,
-      "InterchangeBotLimit": 7,
-      "LaboratoryBotLimit": 6,
-      "LighthouseBotLimit": 7,
-      "ReserveBotLimit": 7,
-      "ShorelineBotLimit": 7,
-      "WoodsBotLimit": 8,
-      "CustomsBotLimit": 7,
-      "TarkovStreetsBotLimit": 7,
-      "GroundZeroBotLimit": 6
-    }
-  },
-  {
     "Name": "crazyraids",
   	"PMCBotLimitPresets": {
       "FactoryBotLimit": 5,
